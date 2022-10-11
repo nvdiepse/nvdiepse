@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nvdiepse
+- 👀 I’m Software Engineer from VietNam
