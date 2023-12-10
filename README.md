@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @nvdiepse
-- 👀 I'm from Ha Noi, I'm Software Engineer with 5-year experience, Now I'm a Senior, Technical Lead in CMC Global.
+- 👀 I'm from Ha Noi, I'm a Software Engineer with 6 years of experience, Currently, I'm a Solution Architect, technical  Lead, and Software Engineer at CMC Global.
