@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @nvdiepse
-- 👀 I'm from Ha Noi, a Software Engineer with over 6 years of experience, Currently, I'm a Solution Architect, Technical  Lead, and Software Engineer at FPT Software
+- 👀 I'm from Ha Noi, a Software Engineer with over 8 years of experience, Currently, I'm a Solution Architect, Technical  Lead, and Software Engineer at FPT Software
